@@ -1,13 +1,8 @@
 # Overview
 This is the code accompanying the lecture on self-driving with carla that can be found here https://www.youtube.com/watch?v=MNiqlHC6Kn4&t
-You should only run this after installing carla and getting a grasp on how to run the simulator and calling the python API, which is documented very well on their site.
 
 # How to Run
 
-## Setup
-I did not create a dependency or yml file (will do so at a later time), but you need carla, pygame, pytorch, opencv and numpy to run this project
-
-You should ensure that you have a `weights` folder when you run the project. If you do not have one, then just run `initial_setup.py` and it will create it for you. If you just cloned the repository, I reccomend you run this file first.
 
 ## main.py
 Run this file if you want to evaluate the performance of your agent
