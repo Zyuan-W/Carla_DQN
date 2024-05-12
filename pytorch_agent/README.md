@@ -35,5 +35,3 @@ This is for training the model. The model only starts learning after a certain n
 `save_freq`: --> Frequency of saving our model
 
 `start_ep` --> Which episode should we start on (just a counter which you can update if program crushes while training for example)
-
-`max_dist_from_waypoint` --> Maximum distance from waypoint/road before we decide to terminate the episode
